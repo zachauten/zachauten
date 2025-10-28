@@ -1,3 +1,7 @@
 = Hey! 👋
 
 I'm Zach
+
+Some stuff I've been working on:
+- 🗳️ Tools for visualizing voter registration data in North Carolina
+- 👾 A parser for StarCraft: Brood War replays
